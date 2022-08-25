@@ -1,0 +1,38 @@
+1. Business Understanding
+SyriaTell is a telecommunications company that is looking to predict whether a customer
+will churn or not (customer will stop using service). What factors impact customer churn the most?
+
+They want to be able to identify people who are most likely to churn so they 
+can reach out to them and convince them to stay.
+
+2. Data Cleaning
+- Get rid of nulls
+- Change column data types,
+- map columns from yes/no to 1/0
+- Delete unnecessary columns,
+- Delete duplicate rows
+
+3. Data Analysis
+- EDA
+- What does the dataset look like?
+- What are some trends of the data?
+- What's the balance between customers who have churned or not?
+- What are some correlations between churn and independent variables?
+- Location and the amount of churn.
+
+
+4. Data Modeling
+- set up dummy model 
+- train test split
+- cross validation
+- feature selection
+- grid search and most optimal model 
+
+5. Modeling Evaluation
+
+
+6. Visualizations
+
+
+
+7. Presentation
