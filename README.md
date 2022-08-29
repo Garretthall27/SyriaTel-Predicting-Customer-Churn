@@ -49,6 +49,11 @@ My final classification model for SyriaTel produced an accuracy score of 94.8% a
 ├── Data
 │   ├── syriatel_clean.csv
 │   ├── syriatel_data.csv
+├── PDFs
+│   ├── Data_cleaning_and _analysis.pdf
+│   ├── Modeling.pdf
+│   ├── Presentation.pdf
+│   ├── github.pdf
 ├── .gitignore
 ├── Data_cleaning_and _analysis.ipynb
 ├── Modeling
